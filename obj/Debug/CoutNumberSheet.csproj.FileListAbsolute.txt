@@ -1,0 +1,7 @@
+F:\source\repos\Revit Addin\CoutNumberSheet\CoutNumberSheet\bin\Debug\CoutNumberSheet.exe.config
+F:\source\repos\Revit Addin\CoutNumberSheet\CoutNumberSheet\bin\Debug\CoutNumberSheet.exe
+F:\source\repos\Revit Addin\CoutNumberSheet\CoutNumberSheet\bin\Debug\CoutNumberSheet.pdb
+F:\source\repos\Revit Addin\CoutNumberSheet\CoutNumberSheet\obj\Debug\CoutNumberSheet.csproj.CoreCompileInputs.cache
+F:\source\repos\Revit Addin\CoutNumberSheet\CoutNumberSheet\obj\Debug\CoutNumberSheet.exe
+F:\source\repos\Revit Addin\CoutNumberSheet\CoutNumberSheet\obj\Debug\CoutNumberSheet.pdb
+F:\source\repos\Revit Addin\CoutNumberSheet\CoutNumberSheet\obj\Debug\CoutNumberSheet.csprojAssemblyReference.cache
